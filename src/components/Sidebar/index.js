@@ -1,14 +1,17 @@
 import './index.scss'
 import { useState } from 'react'
+import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
   faGithub,
+  faYoutube,
+  faSkype,
 } from '@fortawesome/free-brands-svg-icons'
 import {
   faHome,
   faUser,
-  faEnvelope,
+  faSuitcase,
   faBars,
   faClose,
 } from '@fortawesome/free-solid-svg-icons'
@@ -23,6 +26,7 @@ const Sidebar = () => {
         className="logo"
         to="/"
         onClick={() => setShowNav(false)}>
+        <img className="sub-logo" src={LogoSubtitle} alt="slobodan" />
       </Link>
       <nav className={showNav ? 'mobile-show' : ''}>
         <NavLink 
@@ -45,12 +49,12 @@ const Sidebar = () => {
           to="/portfolio"
           onClick={() => setShowNav(false)}
         >
-          <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
+          <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
         </NavLink>
         <FontAwesomeIcon 
           onClick={() => setShowNav(false)}
           icon={faClose}
-          color="#DCF2F1"
+          color="#7FC7D9"
           size="3x"
           className='close-icon' />
       </nav>
@@ -63,7 +67,7 @@ const Sidebar = () => {
           >
             <FontAwesomeIcon
               icon={faLinkedin}
-              color="#DCF2F1"
+              color="#4d4d4e"
               className="anchor-icon"
             />
           </a>
@@ -76,7 +80,7 @@ const Sidebar = () => {
           >
             <FontAwesomeIcon
               icon={faGithub}
-              color="#DCF2F1"
+              color="#4d4d4e"
               className="anchor-icon"
             />
           </a>
@@ -85,7 +89,7 @@ const Sidebar = () => {
       <FontAwesomeIcon 
           onClick={() => setShowNav(true)}
           icon={faBars}
-          color="#365486"
+          color="#7FC7D9"
           size="3x"
           className='hamburger-icon' />
     </div>
