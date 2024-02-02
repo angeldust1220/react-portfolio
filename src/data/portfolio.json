@@ -1,34 +1,28 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "source": "/portfolio/1/3d.png",
+            "title": "3D Shirt Customizer",
+            "description": "A responsive 3D application to ensure a seamless experience across various devices",
+            "url": "https://github.com/angeldust1220/3D-Tshirt"
+        },  
+        {
+            "source": "/portfolio/1/ai.png",
+            "title": "AI Summarizer",
+            "description": "A summary generator that can instantly summarize any text, articles and essays with the best key points. Using a GPT4 AI API",
+            "url": "https://github.com/angeldust1220/ai_summarizer"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "source": "/portfolio/1/nft.png",
+            "title": "NFT Auction Website",
+            "description": "A responsive design using CSS Flexbox. It contains Marketplace, Best Sellers, Guarantees, Footer, Navbar and a Header section",
+            "url": "https://github.com/angeldust1220/NFT-Auction-Website"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "source": "/portfolio/1/desktop4.png",
+            "title": "3D React Portfolio",
+            "description": "A portfolio that i developed using React.js, Three,js, Email JS, Vite, TailwindCSS",
+            "url": "https://github.com/angeldust1220/NFT-Auction-Website"
         }
     ]
 }
