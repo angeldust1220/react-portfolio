@@ -62,12 +62,13 @@
         }
 
         .description {
-            font-size: 14px;
-            margin-bottom: 5px;
+            font-size: 12px;
+            margin-bottom: 2px;
             color: #DCF2F1;
             font-weight: 300;
             animation: lightSpeedInLeft 1s 3s backwards;
             font-style: italic;
+            overflow: auto;
         }
 
         .btn {

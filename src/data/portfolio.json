@@ -21,8 +21,22 @@
         {
             "source": "/portfolio/1/desktop4.png",
             "title": "3D React Portfolio",
-            "description": "A portfolio that i developed using React.js, Three,js, Email JS, Vite, TailwindCSS",
+            "description": "A portfolio that i developed using React.js, Three,js, Email JS, Vite, TailwindCSS. It also has 3D model of my computer setup",
             "url": "https://github.com/angeldust1220/NFT-Auction-Website"
+        }, 
+
+        {
+            "source": "/portfolio/1/typetest.png",
+            "title": "TypingTest",
+            "description": " Developed a typing test website that gives you the ability to test your typing speed and shows you how accurate your typing ability is. I also used a quote database API that generates random quotes for you to type.",
+            "url": "https://github.com/angeldust1220/Type-Test"
+        }, 
+
+        {
+            "source": "/portfolio/1/loginpage.png",
+            "title": "Animated Login-Page",
+            "description": "Developed an animated login page design with Login and Sign-up animations using HTML, JavaScript, CSS Flexbox,CSS Transitions and CSS Keyframes.",
+            "url": "https://github.com/angeldust1220/Login-Page"
         }
     ]
 }
