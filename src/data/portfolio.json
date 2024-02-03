@@ -1,6 +1,12 @@
 {
     "portfolio": [
         {
+            "source": "/portfolio/1/eventus.png",
+            "title": "Eventus",
+            "description": "Developed a full stack event hosting website that has authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.",
+            "url": "https://github.com/angeldust1220/eventus-events"
+        },
+        {
             "source": "/portfolio/1/3d.png",
             "title": "3D Shirt Customizer",
             "description": "A responsive 3D application to ensure a seamless experience across various devices",
@@ -13,12 +19,6 @@
             "url": "https://github.com/angeldust1220/ai_summarizer"
         },
         {
-            "source": "/portfolio/1/eventus.png",
-            "title": "Eventus",
-            "description": "Developed a full stack event hosting website that has authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.",
-            "url": "https://github.com/angeldust1220/eventus-events"
-        },
-        {
             "source": "/portfolio/1/nft.png",
             "title": "NFT Auction Website",
             "description": "A responsive design using CSS Flexbox. It contains Marketplace, Best Sellers, Guarantees, Footer, Navbar and a Header section",
@@ -28,7 +28,7 @@
             "source": "/portfolio/1/desktop4.png",
             "title": "3D React Portfolio",
             "description": "A portfolio that i developed using React.js, Three,js, Email JS, Vite, TailwindCSS. It also has 3D model of my computer setup",
-            "url": ""
+            "url": "https://github.com/angeldust1220/3d-react"
         }, 
 
         {
