@@ -66,7 +66,7 @@ const Home = () => {
           </h1>
           <h2>Front-End Developer</h2>
           <Link to="https://miguelmempin.vercel.app/" className="flat-button">
-            GITHUB
+            Updated Portfolio
           </Link>
           </div>
       </div>
